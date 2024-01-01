@@ -1,0 +1,1 @@
+.\llamafile-server-0.4.1.exe -m mistral-7b-instruct-v0.1.Q4_K_M.gguf
